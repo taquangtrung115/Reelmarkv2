@@ -1,0 +1,44 @@
+[
+  {
+    "key": "distribution",
+    "label": "Nhà phân phối",
+    "image": "/assets/images/partners/tvs-cold-storage.png",
+    "alt": "Hệ thống kho lạnh và phân phối TVS",
+    "description": "Cùng TVS xây dựng danh mục thực phẩm phù hợp cho đại lý, cửa hàng và đơn vị kinh doanh của bạn.",
+    "items": [
+      "Trao đổi danh mục và quy cách theo nhu cầu.",
+      "Kết nối phương án cung ứng phù hợp với khu vực.",
+      "Tư vấn thông tin hợp tác trực tiếp cùng TVS."
+    ],
+    "button": "Trao đổi về phân phối",
+    "titleLines": ["Đưa món ngon", "đến nhiều nơi hơn."]
+  },
+  {
+    "key": "market-development",
+    "label": "Phát triển thị trường",
+    "image": "/assets/images/products/mini-round-sausages/mini-round-sausages-dish.png",
+    "alt": "Xúc xích Tân Việt Sin cho thực đơn kinh doanh",
+    "description": "Bạn am hiểu khu vực và có mạng lưới khách hàng? Cùng tìm hướng phát triển kênh thị trường với TVS.",
+    "items": [
+      "Chia sẻ thị trường và nhóm khách hàng bạn hướng đến.",
+      "Cùng lựa chọn nhóm sản phẩm phù hợp.",
+      "Trao đổi chính sách và cách phối hợp cụ thể."
+    ],
+    "button": "Kết nối phát triển thị trường",
+    "titleLines": ["Mở thêm kết nối.", "Đón thêm cơ hội."]
+  },
+  {
+    "key": "chain-operations",
+    "label": "Vận hành chuỗi",
+    "image": "/assets/images/products/pork-shrimp-siu-mai/pork-shrimp-siu-mai-dish.png",
+    "alt": "Dimsum cho thực đơn chuỗi ẩm thực",
+    "description": "Kết nối TVS Fast Food để trao đổi nhu cầu cung ứng, chuẩn hóa thực đơn và mô hình vận hành chuỗi.",
+    "items": [
+      "Chia sẻ mô hình và định hướng kinh doanh.",
+      "Thảo luận thực đơn và nhu cầu nguyên liệu.",
+      "Tìm phương án hợp tác cho từng giai đoạn."
+    ],
+    "button": "Trao đổi về vận hành chuỗi",
+    "titleLines": ["Cùng làm tốt", "từng điểm chạm."]
+  }
+]

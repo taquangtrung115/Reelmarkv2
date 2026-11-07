@@ -1,0 +1,31 @@
+/* Shared Reelmark mint design system, retained at the user's request. */
+:root {
+  --color-paper: #f5f8ef;
+  --color-ink: #101410;
+  --color-accent: #08482d;
+  --color-accent-hover: #12603e;
+  --color-mint: #dae7c7;
+  --color-mint-soft: #eaf0df;
+  --color-muted: #5e5e61;
+  --color-white: #fff;
+  --color-border: #d5ddcc;
+  --color-photo: #eddfc7;
+  --color-focus: #12603e;
+  --font-display: "Inter Tight", Arial, sans-serif;
+  --font-body: "Inter", Arial, sans-serif;
+  --font-note: "Caveat", cursive;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 40px;
+  --space-2xl: 64px;
+  --space-3xl: 104px;
+  --radius-pill: 999px;
+  --radius-card: 24px;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ease-in-out: cubic-bezier(0.45, 0, 0.55, 1);
+  --dur-fast: 180ms;
+  --dur-reveal: 650ms;
+}

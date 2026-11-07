@@ -1,0 +1,47 @@
+# Dependencies and package caches
+node_modules/
+.npm/
+
+# Build output, test reports and tool caches
+dist/
+coverage/
+.vite/
+.vite-temp/
+.vitest/
+.cache/
+.nyc_output/
+*.tsbuildinfo
+
+# Local deployment and agent artifacts
+.vercel/
+.codex/
+.openai/
+.hallmark/
+legacy-static/
+
+# Environment overrides; keep the public configuration template
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.pid
+*.pid.lock
+*.tmp
+*.swp
+*.swo
+*~
+__pycache__/
+*.py[cod]
+
+# Local IDE state; keep shared extension recommendations
+.vs/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

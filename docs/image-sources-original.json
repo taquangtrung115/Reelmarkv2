@@ -1,0 +1,392 @@
+[
+  {
+    "source": "https://file.hstatic.net/200000550447/file/bun-bo-vien-tvsf-1_33f362b9a9f140a69c9ddb18800542a3_2048x2048.jpg",
+    "local": "/assets/images/about/bua-an-bo-vien.jpg",
+    "placement": "about"
+  },
+  {
+    "source": "https://file.hstatic.net/200000550447/file/cha-gio-hai-san_72c3c1e20c154bf39c4117c92b80bfc0_grande.jpg",
+    "local": "/assets/images/about/bua-an-cha-gio.jpg",
+    "placement": "about"
+  },
+  {
+    "source": "https://theme.hstatic.net/200000550447/1001243776/14/logo.png?v=375",
+    "local": "/assets/images/brand/tvs-logo.png",
+    "placement": "shared-header-and-favicon"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/bovien_7e1f7d9bfe16474dacf2ff52e669cab7_large.png",
+    "local": "/assets/images/hero/hero-bo-vien-tan-viet-sin.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_cao_c_p_c__enn62_07e48dde892d408b8ad5707d9f2e0578_large.png",
+    "local": "/assets/images/hero/hero-ca-vien-cao-cap.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_nh_n_t_m_c__n_n_5e458a20c2a5450a99aa3b2d81c28fb1_large.png",
+    "local": "/assets/images/hero/hero-ca-vien-nhan-tom.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__h_i_s_n_c__n_n_01065a721bea448097a58da670240e4e_large.png",
+    "local": "/assets/images/hero/hero-cha-gio-hai-san.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__m_c_ki_u_hl_c__n_n_ab93886c24054f7eb3e140369a34eae1_large.png",
+    "local": "/assets/images/hero/hero-cha-muc-kieu-ha-long.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/h_cotomtuoi_35769c6731a1481682c42eed06e4e50d_large.png",
+    "local": "/assets/images/hero/hero-ha-cao-tom-tuoi.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xuicaotomthit_55ef896b1d6e417e8fb32dc282bec142_large.png",
+    "local": "/assets/images/hero/hero-sui-cao-tom-thit.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/vi_n_surimi_pmai_9f74fc3b2ae047d9ab3dca8ec36a8abe_large.png",
+    "local": "/assets/images/hero/hero-vien-surimi-nhan-sot-pho-mai.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xiumaitomthitj_8717a15493544673bcd2cffa921919d2_large.png",
+    "local": "/assets/images/hero/hero-xiu-mai-tom-thit.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xucxichholo_b776ec7242d445e98ffeb64709714422_large.png",
+    "local": "/assets/images/hero/hero-xuc-xich-ho-lo.png",
+    "placement": "homepage-curved-carousel"
+  },
+  {
+    "source": "https://cdn.hstatic.net/files/200000550447/file/kho_lanh_dat_chuan___1__fc1f9abf039c4f1683c6117442327453_2048x2048.png",
+    "local": "/assets/images/partners/kho-lanh-phan-phoi-tvs.png",
+    "placement": "partners"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/picture15_ca8e0e3378984ca2aeb7acb22d635fe9_large.png",
+    "local": "/assets/images/products/banh-mandu-hai-san/banh-mandu-hai-san-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/mandu_h_i_s_n_d3894932309643bda1ee59b86f111b3e_large.png",
+    "local": "/assets/images/products/banh-mandu-hai-san/banh-mandu-hai-san-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/manduhe_d354b89a2b6a4c95921e22020e8f88f1_large.png",
+    "local": "/assets/images/products/banh-mandu-he/banh-mandu-he-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/mandu_h__b4a512afe7a643e48b59f0a8bd8b8c6a_large.png",
+    "local": "/assets/images/products/banh-mandu-he/banh-mandu-he-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/mandusodiep_22fde17feb32407f9d6ca8a6ea5ea97c_large.png",
+    "local": "/assets/images/products/banh-mandu-so-diep/banh-mandu-so-diep-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/mandu_s__di_p_4676036416e84f5bbb064c97577e3eca_large.png",
+    "local": "/assets/images/products/banh-mandu-so-diep/banh-mandu-so-diep-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/bovien_7e1f7d9bfe16474dacf2ff52e669cab7_large.png",
+    "local": "/assets/images/products/bo-vien-tan-viet-sin/bo-vien-tan-viet-sin-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/b__vi_n_200g_m_i_6be8b0625f204696aba026ebe33df3ca_large.png",
+    "local": "/assets/images/products/bo-vien-tan-viet-sin/bo-vien-tan-viet-sin-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_c__h_i_c__n_n_be62e24237d545a6b88fe20d6e130c25_large.png",
+    "local": "/assets/images/products/ca-vien-ca-hoi/ca-vien-ca-hoi-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_c__h_i_m_t_tr__c_t_ch_n_n_0ddef0399b024699b231ef2229af0d87_large.png",
+    "local": "/assets/images/products/ca-vien-ca-hoi/ca-vien-ca-hoi-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_cao_c_p_c__enn62_07e48dde892d408b8ad5707d9f2e0578_large.png",
+    "local": "/assets/images/products/ca-vien-cao-cap/ca-vien-cao-cap-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_cao_c_p_c_n_m_ng_m_t_trc_a140ea0bf83b4c288dec3711db28930e_large.png",
+    "local": "/assets/images/products/ca-vien-cao-cap/ca-vien-cao-cap-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ca_mayonnaise_00b06f68c5cc43b3ae6f9d8f86b57182_large.png",
+    "local": "/assets/images/products/ca-vien-mayonnaise/ca-vien-mayonnaise-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_s_t_mayonnaise_fe090a88d6b3445abc21033c5da81590_large.png",
+    "local": "/assets/images/products/ca-vien-mayonnaise/ca-vien-mayonnaise-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/picture34_c4491f5a8d504f3291799342354e1fee_large.png",
+    "local": "/assets/images/products/ca-vien-nhan-pho-mai/ca-vien-nhan-pho-mai-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/bao_b__c__pmai_4b28733d154a447b938a971b2c1d4395_large.png",
+    "local": "/assets/images/products/ca-vien-nhan-pho-mai/ca-vien-nhan-pho-mai-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_nh_n_t_m_c__n_n_5e458a20c2a5450a99aa3b2d81c28fb1_large.png",
+    "local": "/assets/images/products/ca-vien-nhan-tom/ca-vien-nhan-tom-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_nh_n_t_m_m_t_tr__c_t_ch_n_n_00533bd6b95c481ca3daf97a622df711_large.png",
+    "local": "/assets/images/products/ca-vien-nhan-tom/ca-vien-nhan-tom-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/surimithuonghang_c56fe2f852904c92a394e580e382e8ac_large.png",
+    "local": "/assets/images/products/ca-vien-surimi-thuong-hang/ca-vien-surimi-thuong-hang-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/mockup_c__vi_n_surimi_th__ng_h_ng_69edb9622189402bbc26496b1742c464_large.png",
+    "local": "/assets/images/products/ca-vien-surimi-thuong-hang/ca-vien-surimi-thuong-hang-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/c__vi_n_thanh_cua_e02d48613b8f4b84be4e7e8a9ab4c762_large.png",
+    "local": "/assets/images/products/ca-vien-thanh-cua-1/ca-vien-thanh-cua-1-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/mockup_c__vi_n_thanh_cua_de2e3a878d4c4f068cf15413f7769351_large.png",
+    "local": "/assets/images/products/ca-vien-thanh-cua-1/ca-vien-thanh-cua-1-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/cavientrungca_2ec1c52eca2e4dd1b294150b451befa0_large.png",
+    "local": "/assets/images/products/ca-vien-thanh-cua/ca-vien-thanh-cua-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/bao_b__c__vi_n_tr_ng_c__180286851f7646f187ec0de6c4a5990b_large.png",
+    "local": "/assets/images/products/ca-vien-thanh-cua/ca-vien-thanh-cua-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/chacacom_c306eda2cd5c45c6a9cc31579078723a_large.png",
+    "local": "/assets/images/products/cha-ca-com/cha-ca-com-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__c__c_m_e952985de4514ac385b411a8f1d09f77_large.png",
+    "local": "/assets/images/products/cha-ca-com/cha-ca-com-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__chay_d_a_5cbd92b136ea44c2a0973ef7e1a1e94c_large.png",
+    "local": "/assets/images/products/cha-gio-chay/cha-gio-chay-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/bao_b__ch__gi__chay_bf1b5fbe742f4518a2f047afad22658e_large.png",
+    "local": "/assets/images/products/cha-gio-chay/cha-gio-chay-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__da_gi_n_93f906c885a649f29b666c253c44fcf4_large.png",
+    "local": "/assets/images/products/cha-gio-da-gion-500g/cha-gio-da-gion-500g-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__da_gi_n_bb_179db7f1f5d04cf2a080a60e56bf02ba_large.png",
+    "local": "/assets/images/products/cha-gio-da-gion-500g/cha-gio-da-gion-500g-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__h_i_s_n_c__n_n_01065a721bea448097a58da670240e4e_large.png",
+    "local": "/assets/images/products/cha-gio-hai-san/cha-gio-hai-san-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__h_i_s_n_t_ch_n_n_m_t_tr__c_191ae8c7b799459c965cc01a6d151085_large.png",
+    "local": "/assets/images/products/cha-gio-hai-san/cha-gio-hai-san-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__t_m_c__n_n_e7a954cb63a94ab8b22cb9fc4bd30362_large.png",
+    "local": "/assets/images/products/cha-gio-tom/cha-gio-tom-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__gi__t_m_m_t_tr__c_t_ch_n_n_c03e46fb7ed74f2cafb70800b6d231e1_large.png",
+    "local": "/assets/images/products/cha-gio-tom/cha-gio-tom-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__m_c_ki_u_hl_c__n_n_ab93886c24054f7eb3e140369a34eae1_large.png",
+    "local": "/assets/images/products/cha-muc-kieu-ha-long/cha-muc-kieu-ha-long-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/34549694303790630_1456091712300914893_eb1b2c99c5eee85aa71b6de4ad0a3afb_4a1803f6c21a47a19f71b311db0bd670_large.jpg",
+    "local": "/assets/images/products/cha-muc-kieu-ha-long/cha-muc-kieu-ha-long-san-pham.jpg",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ch__t_m_m_c_c__n_n_0d8c63ec2a154a2b981ea2be2a035ebe_large.png",
+    "local": "/assets/images/products/cha-tom-muc-kieu-ha-long/cha-tom-muc-kieu-ha-long-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/34549694303790630_1456091712300914893_c375ae02b22d6a40d8e28bc7fa520d3a_255097fc061c4b28ad85bf969c99af62_large.jpg",
+    "local": "/assets/images/products/cha-tom-muc-kieu-ha-long/cha-tom-muc-kieu-ha-long-san-pham.jpg",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/dauhuhaisan_4e3caa77c0434a67a516ffab43000dbc_large.png",
+    "local": "/assets/images/products/dau-hu-hai-san/dau-hu-hai-san-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/dauhuhaisan_f1fea2a7aaa543c7b5efa075a51685eb_large.png",
+    "local": "/assets/images/products/dau-hu-hai-san/dau-hu-hai-san-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/picture8_8dbc27c77b0a4e989438c3808b1d3141_large.png",
+    "local": "/assets/images/products/ha-cao-tom-thit/ha-cao-tom-thit-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/h__c_o_t_m_th_t_sp_4dfa56f9bc8047d488df0c428f75b803_large.png",
+    "local": "/assets/images/products/ha-cao-tom-thit/ha-cao-tom-thit-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/h_cotomtuoi_35769c6731a1481682c42eed06e4e50d_large.png",
+    "local": "/assets/images/products/ha-cao-tom-tuoi/ha-cao-tom-tuoi-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/h__c_o_t_m_t__i_35d825d7a7604f648bf15a2f6f029dab_large.png",
+    "local": "/assets/images/products/ha-cao-tom-tuoi/ha-cao-tom-tuoi-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/picture14_aa5c35ddad734fd8a019639d56e740fa_large.png",
+    "local": "/assets/images/products/hoanh-thanh-hai-san/hoanh-thanh-hai-san-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/ho_nh_th_nh_hs_c837bc6db8f6400f9b116e7d6ba13c15_large.png",
+    "local": "/assets/images/products/hoanh-thanh-hai-san/hoanh-thanh-hai-san-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/m_c_vi_n_c__n_n_196a2b0e639743149cc4f4ebe27437ad_large.png",
+    "local": "/assets/images/products/muc-vien/muc-vien-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/m_c_vi_n_t_ch_n_n_m_t_tr__c_28dde3f1e0134c8d91413e81bb58cca5_large.png",
+    "local": "/assets/images/products/muc-vien/muc-vien-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xuicaotomthit_55ef896b1d6e417e8fb32dc282bec142_large.png",
+    "local": "/assets/images/products/sui-cao-tom-thit/sui-cao-tom-thit-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/t_ch_n_n_sp_s_i_c_o_t_m_th_t_2b5d4197079c4199b5a79ac93ffde298_large.png",
+    "local": "/assets/images/products/sui-cao-tom-thit/sui-cao-tom-thit-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/t_m_vi_n_c__n_n_56d717f79b6c43c1ac5d905e9cb659a6_large.png",
+    "local": "/assets/images/products/tom-vien-cao-cap/tom-vien-cao-cap-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/t_m_vi_n_cao_c_p_c_n_m_ng_m_t_tr__c_41082c71bed54eab814da400e4952d70_large.png",
+    "local": "/assets/images/products/tom-vien-cao-cap/tom-vien-cao-cap-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/vi_n_surimi_pmai_9f74fc3b2ae047d9ab3dca8ec36a8abe_large.png",
+    "local": "/assets/images/products/vien-surimi-nhan-sot-pho-mai/vien-surimi-nhan-sot-pho-mai-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/mockup_vi_n_surimi_nh_n_s_t_pmai_4c46d27b002f421f9c5197aa206cbf2b_large.png",
+    "local": "/assets/images/products/vien-surimi-nhan-sot-pho-mai/vien-surimi-nhan-sot-pho-mai-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xiumaihaisan_64532a397d784d2da70d55da5cf2fe0a_large.png",
+    "local": "/assets/images/products/xiu-mai-hai-san-thanh-cua/xiu-mai-hai-san-thanh-cua-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xiu_mai_thanh_cua-2481_copy_10c7598aaba74b33b27d84b93569d44d_large.png",
+    "local": "/assets/images/products/xiu-mai-hai-san-thanh-cua/xiu-mai-hai-san-thanh-cua-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xiumaitomthitj_8717a15493544673bcd2cffa921919d2_large.png",
+    "local": "/assets/images/products/xiu-mai-tom-thit/xiu-mai-tom-thit-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/x_u_m_i_t_m_th_t_4a9e175db2d549e1ac594c30b5dbd1a6_large.png",
+    "local": "/assets/images/products/xiu-mai-tom-thit/xiu-mai-tom-thit-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xucxichholo_b776ec7242d445e98ffeb64709714422_large.png",
+    "local": "/assets/images/products/xuc-xich-ho-lo/xuc-xich-ho-lo-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xx_h__l__tem_2382a81ae5fe4f3084becdc9c46b9e94_large.png",
+    "local": "/assets/images/products/xuc-xich-ho-lo/xuc-xich-ho-lo-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/picture1_d30d7e00efca46d8b4be6b51859bd7d5_large.png",
+    "local": "/assets/images/products/xuc-xich-veal/xuc-xich-veal-mon-an.png",
+    "placement": "catalog-and-product-detail"
+  },
+  {
+    "source": "https://cdn.hstatic.net/products/200000550447/xx_veal_sp_f16f1438fac644d783c343de9374628d_large.png",
+    "local": "/assets/images/products/xuc-xich-veal/xuc-xich-veal-san-pham.png",
+    "placement": "product-detail"
+  },
+  {
+    "source": "https://file.hstatic.net/200000550447/file/bun-bo-vien-tvsf-1_33f362b9a9f140a69c9ddb18800542a3_2048x2048.jpg",
+    "local": "/assets/images/recipes/bo-vien-doi-vi-moi-ngay.jpg",
+    "placement": "recipe-list-and-article"
+  },
+  {
+    "source": "https://file.hstatic.net/200000550447/file/cha-gio-hai-san_72c3c1e20c154bf39c4117c92b80bfc0_grande.jpg",
+    "local": "/assets/images/recipes/cha-gio-tren-ban-an.jpg",
+    "placement": "recipe-list-and-article"
+  }
+]
